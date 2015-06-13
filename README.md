@@ -1,2 +1,2 @@
 # kmeans
-An implementation of k-means clustering in general dimensions.
+An implementation of k-means clustering in arbitrary dimensions.
